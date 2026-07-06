@@ -1,0 +1,3 @@
+[submodule "grist-widget"]
+	path = grist-widget
+	url = git@github.com:mezzacerma/grist-widget.git
